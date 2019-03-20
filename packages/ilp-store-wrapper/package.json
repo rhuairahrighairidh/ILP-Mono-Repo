@@ -16,7 +16,6 @@
     "lint": "tslint --project .",
     "pretest": "npm run build",
     "watch": "mocha-typescript-watch",
-    "prepare": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
