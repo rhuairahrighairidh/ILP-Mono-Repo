@@ -13,7 +13,7 @@
     "build": "tsc",
     "pretest": "tsc",
     "test": "nyc mocha",
-    "watch": "mocha-typescript-watch",
+    "watch": "mocha-typescript-watch"
   },
   "repository": {
     "type": "git",
