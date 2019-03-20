@@ -14,7 +14,6 @@
     "pretest": "tsc",
     "test": "nyc mocha",
     "watch": "mocha-typescript-watch",
-    "prepare": "tsc"
   },
   "repository": {
     "type": "git",

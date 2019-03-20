@@ -11,7 +11,6 @@
   ],
   "scripts": {
     "build": "tsc",
-    "prepare": "tsc",
     "lint": "tslint --project .",
     "test": "nyc mocha",
     "doc": "typedoc --options typedoc.js src/index.ts src/connection.ts src/stream.ts",
