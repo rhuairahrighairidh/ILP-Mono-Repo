@@ -6,7 +6,6 @@
   "types": "src/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "prepare": "npm run build",
     "pretest": "npm run build",
     "test": "nyc mocha",
     "lint": "tslint --project .",
